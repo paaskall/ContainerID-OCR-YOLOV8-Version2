@@ -11,7 +11,7 @@ import time
 import re
 
 # Configuration
-MODEL_PATH = "container_id_training/yolov8_container_detectionOBB/weights/best.pt"
+MODEL_PATH = "container_id_training/yolov8_container_detectionV2/weights/best.pt"
 IMAGE_DIR = "images"
 OUTPUT_CSV = "result/hasil_ocr.csv"
 GEMINI_API_KEY = "AIzaSyDgr5oSJad23oCsIL4xKcarshDzicdqlfk"
