@@ -1,0 +1,9 @@
+train: train/images
+val: valid/images
+test: test/images
+
+names: 
+  0: Container_ID
+  1: Container_ID_Vertikal
+  2: plate_number
+  3: truck_id
