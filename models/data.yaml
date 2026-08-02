@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 4
+names: ['Container_ID', 'Container_ID_Vertikal', 'plate_number', 'truck_id']
+
+roboflow:
+  workspace: autogate-dv6ju
+  project: containerid-9ptmf
+  version: 5
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/autogate-dv6ju/containerid-9ptmf/dataset/5
